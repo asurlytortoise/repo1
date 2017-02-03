@@ -1,0 +1,3 @@
+goodbye
+
+this is a file i made for lab3
